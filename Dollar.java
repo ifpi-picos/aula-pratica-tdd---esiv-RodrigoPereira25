@@ -2,7 +2,7 @@ class Dollar {
     int amount = 10;
     Dollar(int amount) {}			
     void times(int multiplier) {}
-}	
+ }	
 
 public void testMultiplication() {
     Dollar five = new Dollar(5);
